@@ -5,3 +5,5 @@ Built:
 - Express
 - Passport
 - EJS
+- MongoDB
+- bcryptjs (Password hashing)
